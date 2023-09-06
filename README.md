@@ -25,9 +25,11 @@ This plot displays the relationship between the Past Accidents of drivers and th
 
 ![download (1)](https://github.com/Yaman-Shadid/Car_Sales/assets/116229037/a869bbc5-969e-4d82-93c7-b3bad9f3ec78)
 
-This plot displays the relationship between the DUIS of drivers and their current number of Speeding Violations. The data shows that the Speeding Violations are higher the lower the DUIS. May suggest that drivers are also more careful overtime because of their frequent violations, so it lessens their accidents.
+This plot displays the relationship between the DUIS of drivers and their current number of Speeding Violations. The data shows that the Speeding Violations are higher the lower the DUIS. May suggest that drivers are also more careful over time because of their frequent violations, so it lessens their accidents.
 
-## Model
+## Models
+
+Utilizing a **Decision Tree Classifier** and **KNN**, I conducted outcome predictions, achieving an accuracy of 73% on the Decision Tree Classifier model. Suggesting that the model is correct about 73% of the time in its predictions. Whether this level of accuracy is acceptable or not depends on the specific goals and requirements of the stakeholders. It's important to consider the trade-offs between precision, recall, and accuracy based on their application's needs and constraints.
 
 Utilizing a **Decision Tree Classifier**, I conducted outcome predictions, achieving an accuracy of 73%. Suggesting that the model is correct about 73% of the time in its predictions. Whether this level of accuracy is acceptable or not depends on the specific goals and requirements of the stakeholders. It's important to consider the trade-offs between precision, recall, and accuracy based on their application's needs and constraints.
 
