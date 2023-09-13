@@ -29,9 +29,7 @@ This plot displays the relationship between the DUIS of drivers and their curren
 
 ## Models
 
-Utilizing a **Decision Tree Classifier** and **KNN**, I conducted outcome predictions, achieving an accuracy of 73% on the Decision Tree Classifier model. Suggesting that the model is correct about 73% of the time in its predictions. Whether this level of accuracy is acceptable or not depends on the specific goals and requirements of the stakeholders. It's important to consider the trade-offs between precision, recall, and accuracy based on their application's needs and constraints.
-
-Utilizing a **Decision Tree Classifier**, I conducted outcome predictions, achieving an accuracy of 73%. Suggesting that the model is correct about 73% of the time in its predictions. Whether this level of accuracy is acceptable or not depends on the specific goals and requirements of the stakeholders. It's important to consider the trade-offs between precision, recall, and accuracy based on their application's needs and constraints.
+Utilizing a **Decision Tree Classifier** and **KNN**, I conducted outcome predictions, achieving an accuracy of 72% on the Decision Tree Classifier model. Suggesting that the model is correct about 72% of the time in its predictions. Whether this level of accuracy is acceptable or not depends on the specific goals and requirements of the stakeholders. It's important to consider the trade-offs between precision, recall, and accuracy based on their application's needs and constraints.
 
 Given that the dataset contains binary outcomes (0 or 1), accuracy is important because it tells you the overall percentage of correct predictions made by my model.
 
